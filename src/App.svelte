@@ -1,6 +1,4 @@
 <script>
-  import { loop_guard } from 'svelte/internal';
-
   export let name;
   let firstName = 'Jimi';
   let lastName = 'Handrix';
